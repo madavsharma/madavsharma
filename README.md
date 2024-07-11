@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **Blockchain Technology**
 
 - 💬 Ask me about **Web development**
 
