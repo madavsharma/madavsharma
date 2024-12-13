@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technology**
   
-- 📫 How to reach me **madavsharma4545@gmail.com**
+- 📫 How to reach me **maniksharma0325@gmail.com**
 # 🔗 Connect with me:
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
